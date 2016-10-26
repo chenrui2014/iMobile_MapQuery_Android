@@ -2,7 +2,7 @@ iMobile_MapQuery_Android
 
 地图查询：
 	
-	当前该应用已更新到 8C版本，是基于SuperMap iMobile 8C for Android 构建的。展示了通过绘制范围进行的空间查询、对关键字的属性查询、查询结果的列表显示和弹出窗体显示。通过iMobile的手势绘制的几何对象，可以用于构建查询范围或分析对象；这里将用户自由绘制得到的面对象作为空间查询的查询范围，分别查询点、线、面数据。
+	当前该应用已更新到 8C(2017)版本，是基于SuperMap iMobile 8C(2017) for Android 构建的。展示了通过绘制范围进行的空间查询、对关键字的属性查询、查询结果的列表显示和弹出窗体显示。通过iMobile的手势绘制的几何对象，可以用于构建查询范围或分析对象；这里将用户自由绘制得到的面对象作为空间查询的查询范围，分别查询点、线、面数据。
 
 操作说明：
 
@@ -14,5 +14,5 @@ iMobile_MapQuery_Android
 
   (4)点击【清空】按钮(右上角第二个按钮)，可以清空查询的结果
 
-  注意： 1.目录下SuperMap iMobile Trial.slm是试用许可文件，期限是三个月，申请时间是2015/09/21; 许可过期后，请到官网 http://istore.supermap.com.cn/License/lic8C.aspx 申请SuperMap iMobile 8C产品的许可替换。 已安装app的用户需要手动删除该app的许可用新申请的替换。 2.如有疑问请拨打超图官网支持中心的电话咨询。
+  注意： 1.目录下SuperMap iMobile Trial.slm是试用许可文件，期限是三个月，申请时间是2016/10/24; 许可过期后，请到官网 http://istore.supermap.com.cn/License/lic8C.aspx 申请SuperMap iMobile 8C(2017)产品的许可替换。 已安装app的用户需要手动删除该app的许可用新申请的替换。 2.如有疑问请拨打超图官网支持中心的电话咨询。
 ================

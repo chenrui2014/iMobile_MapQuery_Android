@@ -35,7 +35,7 @@ public class MyApplication extends Application {
 		MyAssetManager.init(this);
 		
 		//≈‰÷√ ˝æ›
-//		new DefaultDataConfig().autoConfig();
+		new DefaultDataConfig().autoConfig();
 		
 		mWorkspace = new Workspace();
 	}
